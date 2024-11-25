@@ -1,4 +1,3 @@
-
 r = int(input(" Enter the Total Number of Rows  : "))
 
 print("Mirrored Right Triangle Star Pattern") 
